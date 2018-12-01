@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "72052081991",
+    "firebase_url": "https://suling-a6e70.firebaseio.com",
+    "project_id": "suling-a6e70",
+    "storage_bucket": "suling-a6e70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72052081991:android:fa5d6b2c3cac80cc",
+        "android_client_info": {
+          "package_name": "com.nextwin.suling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72052081991-jvp3s0p7vcthfnb6200tomon9vu5akug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCldi3riG2RKrcbPpkmytKM1jD6t_YKTns"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
